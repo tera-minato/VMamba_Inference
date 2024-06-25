@@ -1,5 +1,5 @@
 # VMamba_Inference
-Google Colab implementation for running inferences and fine tuning on the ]VMamba architecture](https://github.com/MzeroMiko/VMamba).
+Google Colab implementation for running inferences and fine tuning on the [VMamba architecture](https://github.com/MzeroMiko/VMamba).
 
 [Sample of ImageNet-1K Dataset](https://drive.google.com/drive/folders/10F_cJDp_SvN2N37-kHVgAtI_JWJBhPQe?usp=sharing)
 8 classes for training and validation from the ImageNet-1K dataset. Upload the folder to google drive (will be read from the Google Colab script through mounting).
